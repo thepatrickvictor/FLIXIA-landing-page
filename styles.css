@@ -43,7 +43,7 @@ nav{
 	color: white;
 }
 .text{
-	position: absolute;
+	position: relative;
 	top: 55%;
 	left: 25%;
 	transform: translate(-50%, -50%);
@@ -53,10 +53,10 @@ nav{
 	user-select: none;
 	background: rgba(0, 0, 0, 0.3);
 	width: 40%;
-	height: 75vh;
+	height: 50vh;
 }
 h1{
-	font-size: 4em;
+	font-size: 3em;
 	width: 500px;
 	font-weight: bold;
 	padding-left: 35px;
