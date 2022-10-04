@@ -52,12 +52,13 @@ nav{
 	letter-spacing: 2px;
 	color: white;
 	user-select: none;
-	background: rgba(0, 0, 0, 0.8);
-	background-size: 30% 50%;
+	background: rgba(0, 0, 0, 0.5);
+	background-size: 100% 100%;
 }
 .form{
-	background: rgba(0, 0, 0, 0.8);
-	background-size: 30% 50%;
+	position: fixed;
+	top: 70%;
+	right: 55%;
 }
 h1{
 	font-size: 4em;
