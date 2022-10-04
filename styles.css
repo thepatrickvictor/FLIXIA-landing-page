@@ -46,19 +46,19 @@ nav{
 }
 .text{
 	position: fixed;
-	top: 50%;
-	right: 55%;
+	top: 30%;
+	right: 40%;
 	font-family: 'montserrat';
 	letter-spacing: 2px;
 	color: white;
 	user-select: none;
 	background: rgba(0, 0, 0, 0.5);
-	background-size: cover;
+	background-size: 30% 40%;
 }
 .form{
 	position: fixed;
-	top: 65%;
-	right: 60%;
+	top: 68%;
+	
 }
 h1{
 	font-size: 4em;
