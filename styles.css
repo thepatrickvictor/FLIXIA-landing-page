@@ -93,9 +93,8 @@ button{
 	border-color: #fbbb47;
 }
 button:hover{
-	background: #14243c;
-	border-color: #14243c;
-	border-radius: 15px;
+	background: #f53a3a;
+	border-color: #f53a3a;
 	cursor: pointer;
 }
 footer{
