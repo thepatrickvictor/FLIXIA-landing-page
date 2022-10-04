@@ -47,7 +47,6 @@ nav{
 .text{
 	position: fixed;
 	top: 30%;
-	right: 40%;
 	font-family: 'montserrat';
 	letter-spacing: 2px;
 	color: white;
@@ -62,8 +61,8 @@ nav{
 }
 .text-background{
 	position: fixed;
-	top: 50%;
-	right: 50%;
+	top: 40%;
+	right: 40%;
 	background: rgba(0, 0, 0, 0.5);
 }
 h1{
