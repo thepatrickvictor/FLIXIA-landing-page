@@ -47,7 +47,7 @@ nav{
 .text{
 	position: fixed;
 	top: 50%;
-	right: 65%;
+	right: 55%;
 	font-family: 'montserrat';
 	letter-spacing: 2px;
 	color: white;
@@ -55,9 +55,13 @@ nav{
 	background: rgba(0, 0, 0, 0.8);
 	background-size: 30% 50%;
 }
+.form{
+	background: rgba(0, 0, 0, 0.8);
+	background-size: 30% 50%;
+}
 h1{
 	font-size: 4em;
-	width: 500px;
+	
 	font-weight: bold;
 	padding-left: 35px;
 	padding-top: 25px;
