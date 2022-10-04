@@ -61,7 +61,9 @@ nav{
 	
 }
 .text-background{
-	
+	position: fixed;
+	top: 50%;
+	right: 50%;
 	background: rgba(0, 0, 0, 0.5);
 }
 h1{
